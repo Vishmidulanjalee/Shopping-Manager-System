@@ -1,0 +1,28 @@
+ProductID: 98765
+Category: Electronics
+Name: Laptop
+Brand:HP
+Warranty Period: 18 weeks 
+Price:300000.0
+Available products: 3
+ProductID: 56784
+CategoryClothing
+Name: Shirt
+Colour:white
+Size: L
+Price:3000.0
+Available products: 2
+ProductID: 98768
+CategoryClothing
+Name: Tshirt
+Colour:red
+Size: M
+Price:5000.0
+Available products: 5
+ProductID: 45678
+Category: Electronics
+Name: fan
+Brand:pheonix
+Warranty Period: 6 weeks 
+Price:10000.0
+Available products: 5
